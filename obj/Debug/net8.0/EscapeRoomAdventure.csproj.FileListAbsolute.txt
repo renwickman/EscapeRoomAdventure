@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.exe
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.dll
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.pdb
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.dll
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\refint\EscapeRoomAdventure.dll
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.pdb
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\EscapeRoomAdventure\obj\Debug\net8.0\ref\EscapeRoomAdventure.dll
